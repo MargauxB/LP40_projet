@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recettes>
+	<recette numero="1" facilite="1" nb_mouth="6" duree="80:00">
+		<title>Tajine</title>
+		<from>Maroc</from>
+		<categorie>Plat principal</categorie>
+		<ingredients>
+			<ingredient>500g de pruneaux</ingredient>
+			<ingredient>du thé chaud</ingredient>
+			<ingredient>500g oignons</ingredient>
+			<ingredient>huile d'olive</ingredient>
+			<ingredient>1,5kg d'épaule d'agneau coupée en morceaux</ingredient>
+			<ingredient>2 gousses d'ail</ingredient>
+			<ingredient>1/2 cuillère à café de canelle</ingredient>
+			<ingredient>1/2 cuillère à café de gingembre</ingredient>
+			<ingredient>1 dosette de safran</ingredient>
+			<ingredient>quelques grains de coriandre écrasés</ingredient>
+			<ingredient>100g amandes émondées</ingredient>
+			<ingredient>3 cuillères à soupe de miel</ingredient>
+		</ingredients>
+		<preparation>
+			Faites tremper les 500 g pruneaux dans du thé chaud. Faites revenir les oignons émincés dans l'huile d'olive. Quand ils sont dorés, retirez-les et remplacez-les par la viande.<br/><br/>
+
+			Lorsque les morceux sont bien dorés, mettez-les dans une cocotte avec les oignons. Salez et poivrez. Ajoutez l'ail écrasé, la cannelle, le gingembre, la safran et les grains de coriandre.<br/>
+			
+			Couvrez d'eau et faites cuire 1 heure à feu doux.<br/><br/>
+
+			Ajoutez ensuite les pruneaux égouttés, puis poursuivez la cuisson 20 min à couvert.<br/><br/>
+			
+			Faites revenir les amandes dans un peu de beurre chaud. Egouttez-les puis ajoutez-les à la viande avec le miel.<br/><br/>
+
+			Laissez cuire encore 5 min sans couvrir.<br/><br/>
+
+			Servez accompagné de semoule de couscous<br/><br/>
+		</preparation>
+	</recette>
+	<recette numero="2" facilite="5" nb_mouth="1" duree="20:00">
+        <title>Pizza Fourre-tout</titles>
+        <from>Italie</from>
+        <categorie>Plat principal</categorie>
+        <ingredients>
+            <ingredient>Pâte à pizza</ingredient>
+            <ingredient>Sauce tomate</ingredient>
+            <ingredient>Origan</ingredient>
+            <ingredient>Mozzarella</ingredient>
+            <ingredient>N'importe quoi !</ingredient>
+            <preparation>
+        </preparation>Derouler pate a pizza sur une plaque de cuisson, puis piquez-la. Etaler la sauce tomate, puis saupoudrer de sel, poivre et origan. Ajouter quelques tranches de mozzarella, puis fourez la a votre guise.
+        </ingredients>
+	</recette>
+	<recette numero="3" facilite="4" nb_mouth="6" duree="15:00">
+        <title>Meghli</title>
+        <from>Libon</from>
+        <categorie>Dessert</categorie>
+        <ingredients>
+            <ingredient>3/4 tasse de poudre de riz</ingredient>
+            <ingredient>1 tasse de sucre en poudre</ingredient>
+            <ingredient>2 cueillères à café de carvi moulu</ingredient>
+            <ingredient>1 litre d'eau</ingredient>
+        
+        </ingredients>
+        <preparation>
+        Mélanger la poudre de riz,le sucre en poudre,le carvi et la cannelle dans une casserole puis ajouter l'eau au fur et à mesure en fouettant constamment.
+        
+        Faire bouillir le melange à feu moyen pendant 5 minutes.il faut obtenir une texture assez épaisse.
+        
+        verser le meghli dans des ramequins et laisser refroidir à température ambiante,puis les mettre au réfrigérateure.
+        
+        servir frais avec de la noix de coco râpée,des noix,noix de cajous et des amandes.
+        
+        </preparation>
+    </recette>
+</recettes>
